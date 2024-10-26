@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light mode colors */
+    --background: 210 20% 99%; /* Light Gray */
+    --foreground: 220 15% 20%; /* Dark Gray Text */
+    
+    --card: 0 0% 100%; /* White */
+    --card-foreground: 220 15% 20%; /* Dark Gray Text */
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 15% 20%;
+
+    --primary: 192 70% 50%; /* Teal Blue */
+    --primary-foreground: 0 0% 100%; /* White Text on Primary */
+
+    --secondary: 220 20% 95%; /* Light Gray for Cards */
+    --secondary-foreground: 220 15% 20%; /* Dark Gray Text */
+
+    --accent: 340 85% 58%; /* Vibrant Red for accents */
+    --accent-foreground: 0 0% 100%; /* White Text on Accent */
+
+    --muted: 220 15% 95%; /* Very Light Gray for muted elements */
+    --muted-foreground: 220 10% 40%; /* Muted Text */
+
+    --destructive: 0 84.2% 60.2%; /* Red for destructive actions */
+    --destructive-foreground: 0 0% 100%; /* White text on destructive */
+
+    --border: 210 15% 85%; /* Light Gray Borders */
+    --input: 210 15% 85%; /* Light Gray Input Background */
+    --ring: 192 70% 50%; /* Teal Blue Ring Color */
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* Dark mode colors */
+    --background: 220 15% 15%; /* Dark Gray */
+    --foreground: 0 0% 100%; /* White Text */
+
+    --card: 220 15% 20%; /* Darker Gray Card Background */
+    --card-foreground: 0 0% 100%; /* White Text on Cards */
+
+    --popover: 220 15% 20%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 192 70% 60%; /* Lighter Teal Blue for Dark Mode */
+    --primary-foreground: 0 0% 100%; /* White Text on Primary */
+
+    --secondary: 220 15% 25%; /* Darker Gray for secondary elements */
+    --secondary-foreground: 0 0% 100%; /* White text on secondary */
+
+    --accent: 340 85% 58%; /* Vibrant Red */
+    --accent-foreground: 0 0% 100%; /* White Text on Accent */
+
+    --muted: 220 15% 25%; /* Dark muted */
+    --muted-foreground: 220 10% 70%; /* Lighter muted text */
+
+    --destructive: 0 62.8% 50%; /* Darker Red */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 30%; /* Darker Border */
+    --input: 220 15% 30%; /* Darker Input Background */
+    --ring: 192 70% 60%; /* Teal Blue Ring for focus */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
