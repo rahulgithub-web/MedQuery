@@ -14,7 +14,7 @@ const pinecone = new Pinecone({
 
 const google = createGoogleGenerativeAI({
     baseURL: 'https://generativelanguage.googleapis.com/v1beta',
-    apiKey: process.env.API_KEY
+    apiKey: process.env.API_KEY!,
 });
 
 // gemini-1.5-pro-latest
