@@ -1,11 +1,12 @@
-# MedQuery - AI-Powered Medical Insights 🩺💡
+# 🩺 MediQuery - AI-Powered Medical Insights 💡
 
-![Project Banner](https://github.com/user-attachments/assets/68ab212a-57ae-4295-9e6e-ab41bfd466f0)
+![Project Banner](https://github.com/user-attachments/assets/5ed9e25a-b28f-4de3-ae26-dece8cceb72c)
 
 
-## Overview
 
-**MedQuery** is an AI-driven web application that helps users analyze and gain insights from medical reports. Leveraging state-of-the-art AI technologies such as Google Gemini, Pinecone, and a modern web stack with Next.js and Shadcn/ui, it allows users to upload PDFs or images of their medical reports and get precise, personalized insights through an interactive chat interface.
+## 👨‍💻 Overview
+
+**MediQuery** is an AI-driven web application that helps users analyze and gain insights from medical reports. Leveraging state-of-the-art AI technologies such as Google Gemini, Pinecone, and a modern web stack with Next.js and Shadcn/ui, it allows users to upload PDFs or images of their medical reports and get precise, personalized insights through an interactive chat interface.
 
 ## 🚀 Key Features
 
@@ -25,7 +26,7 @@
 
 ## 🌐 Live Demo
 
-Experience MedQuery in action: [MedQuery Demo](https://medi-query.vercel.app/)
+Experience MediQuery in action: [MediQuery Demo](https://medi-query.vercel.app/)
 
 ## 📸 Screenshots
 
