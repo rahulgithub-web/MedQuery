@@ -1,4 +1,8 @@
-# Security Policy
+﻿<div align='center'>
+
+# 🔒Security Policy
+
+</div>
 
 ## Supported Versions
 
