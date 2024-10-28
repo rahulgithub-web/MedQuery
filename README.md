@@ -1,6 +1,7 @@
 # MedQuery - AI-Powered Medical Insights 🩺💡
 
-![Project Banner](./path-to-your-banner-image.png)
+![Project Banner](https://github.com/user-attachments/assets/68ab212a-57ae-4295-9e6e-ab41bfd466f0)
+
 
 ## Overview
 
@@ -29,10 +30,11 @@ Experience MedQuery in action: [MedQuery Demo](https://your-demo-link.com)
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./path-to-landing-page-screenshot.png)
+![Landing Page](https://github.com/user-attachments/assets/c0f10878-b0ff-4dbe-85df-21fc5589ccc0)
 
 ### User Dashboard
-![Dashboard](./path-to-dashboard-screenshot.png)
+![Dashboard](https://github.com/user-attachments/assets/e0d941b5-7647-495c-83dd-1375f7b2285c)
+
 
 ## 🛠 Getting Started
 
