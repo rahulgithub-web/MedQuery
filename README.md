@@ -19,10 +19,18 @@
 
 ## 📚 Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS, Shadcn/ui
-- **Backend**: Node.js, Google Gemini, Pinecone, Vercel AI SDK
-- **APIs**: Hugging Face Inference API for natural language processing
-- **Deployment**: Vercel for serverless deployment
+![Frontend](https://img.shields.io/badge/Frontend-Next.js-007ACC?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-7952B3.svg?style=for-the-badge)
+
+![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-ff9f00?style=for-the-badge&logo=google)
+![Pinecone](https://img.shields.io/badge/Vector%20Database-Pinecone-008FF7?style=for-the-badge)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000?style=for-the-badge&logo=vercel)
+
+![Hugging Face API](https://img.shields.io/badge/API-Hugging%20Face-FFD42F?style=for-the-badge&logo=huggingface)
+![Deployment](https://img.shields.io/badge/Deployment-Vercel-000?style=for-the-badge&logo=vercel)
 
 ## 🌐 Live Demo
 
@@ -43,8 +51,9 @@ To set up the project locally, follow these steps:
 
 ### Prerequisites
 
-- Node.js (v18+)
-- npm or yarn
+![Node.js](https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Installation
 
@@ -52,21 +61,16 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/medical-report-analyzer.git
    ```
-   cd medical-report-analyzer
 
-## Getting Started
+2. **Navigate to the project directory**:
+   ```bash
+   cd mediquery
+   ```
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+3. **Running the Development Server**
+   ```bash
+   npm run dev
+   ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
