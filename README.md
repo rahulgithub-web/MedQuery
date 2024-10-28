@@ -1,6 +1,10 @@
+﻿<div align='center'>
+
 # 🩺 MediQuery - AI-Powered Medical Insights 💡
 
 ![Project Banner](https://github.com/user-attachments/assets/5ed9e25a-b28f-4de3-ae26-dece8cceb72c)
+
+</div>
 
 
 
@@ -92,3 +96,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+## 🪄 License 
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+<h2 align="center">Don't forget to give us a ⭐</h2
