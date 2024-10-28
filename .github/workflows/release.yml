@@ -9,6 +9,11 @@ on:
   pull_request:
     branches: [ "main" ]
 
+env:
+  API_KEY: API_KEY
+  HF_TOKEN: HF_TOKEN
+  PINECONE_API_KEY: PINECONE_API_KEY
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,17 +32,7 @@ jobs:
         cache: 'npm'
 
     - run: npm ci
-
     - run: npm run build --if-present
-      env:
-        API_KEY: ${{ secrets.API_KEY }}
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
-
+    
     - run: npm test
-      env:
-        API_KEY: ${{ secrets.API_KEY }}
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
-
     - run: npm run lint
