@@ -25,7 +25,7 @@
 
 ## 🌐 Live Demo
 
-Experience MedQuery in action: [MedQuery Demo](https://your-demo-link.com)
+Experience MedQuery in action: [MedQuery Demo](https://medi-query.vercel.app/)
 
 ## 📸 Screenshots
 
