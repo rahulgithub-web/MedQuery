@@ -10,8 +10,8 @@ const inter = Inter({ subsets: ["latin"] });
 const source_code_pro = Source_Code_Pro({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "MediQuery",
-  description: "The med-school dropout with a solid advice",
+  title: "MediQuery: Your AI-Powered Health Companion",
+  description: "An advanced AI-driven platform offering precise insights and personalized guidance on medical reports. Upload, analyze, and ask questions for expert-level advice in seconds.",
 };
 
 export default function RootLayout({
