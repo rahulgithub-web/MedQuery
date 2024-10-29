@@ -6,8 +6,6 @@
 
 </div>
 
-
-
 ## 👨‍💻 Overview
 
 **MediQuery** is an AI-driven web application that helps users analyze and gain insights from medical reports. Leveraging state-of-the-art AI technologies such as Google Gemini, Pinecone, and a modern web stack with Next.js and Shadcn/ui, it allows users to upload PDFs or images of their medical reports and get precise, personalized insights through an interactive chat interface.
@@ -76,20 +74,18 @@ To set up the project locally, follow these steps:
    npm run dev
    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the application. You can start making changes by editing the `app/page.tsx` file, and your updates will reflect instantly.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project leverages [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) for optimized font loading, automatically integrating Inter, a custom Google Font, for improved typography.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📚 Further Resources
 
-## 📖 Learn More
+To dive deeper into Next.js, check out these resources:
 
-To learn more about Next.js, take a look at the following resources:
+- [**Next.js Documentation**](https://nextjs.org/docs) - Explore Next.js features, APIs, and best practices.
+- [**Interactive Next.js Tutorial**](https://nextjs.org/learn) - Follow an interactive tutorial to get hands-on experience with Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+For more insights and to contribute, visit [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are always welcome!
 
 ## 🚀 Deploy on Vercel
 
@@ -97,10 +93,40 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
----
+## 🙏 Acknowledgments
+
+- Heartfelt thanks to all contributors who have helped shape MediQuery
+- Special appreciation to our vibrant open-source community for their unwavering support
+- Gratitude to the developers of the tools and libraries that power our platform
+
+## 📞 Contact
+
+For inquiries, support, or collaboration opportunities, reach out to us:
+
+<p align="center">
+  <a href="mailto:rahulbarnwalonlyu2@gmail.com"><img src="https://img.shields.io/badge/Email-rahulbarnwalonlyu2@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://twitter.com/KumarRahul54229"><img src="https://img.shields.io/badge/Twitter-@KumarRahul54229-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/rk-barnwal23/"><img src="https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+## 📜 Code of Conduct
+
+We are committed to fostering an inclusive and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## 🪄 License 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+<div align="center">
+
+## Our Valuable Contributors ❤️✨
+
+[![Contributors](https://contrib.rocks/image?repo=rahulgithub-web/MediQuery)](https://github.com/rahulgithub-web/MediQuery/graphs/contributors)
+
+</div>
+
+---
+
 <h2 align="center">Don't forget to give us a ⭐</h2
+
+---
